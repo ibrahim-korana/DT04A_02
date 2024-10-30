@@ -1,0 +1,15 @@
+## IDF Component Manager Manifest File
+dependencies:
+  home_i2c:
+    path: D:/esp_prj/global/home_i2c
+  home_8574:
+    path: D:/esp_prj/global/home_8574
+  iot_button:
+    path: D:/esp_prj/global/iot_button 
+  dali_global:
+    path: D:/esp_prj/dali_global/dali_global 
+  
+  ## Required IDF version
+  idf:
+    version: ">=4.1.0"
+

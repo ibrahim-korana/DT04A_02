@@ -1,0 +1,33 @@
+dependencies:
+  dali_global:
+    component_hash: null
+    source:
+      path: D:\esp_prj\dali_global\dali_global
+      type: local
+    version: 1.0.0
+  home_8574:
+    component_hash: null
+    source:
+      path: D:\esp_prj\global\home_8574
+      type: local
+    version: 1.0.0
+  home_i2c:
+    component_hash: null
+    source:
+      path: D:\esp_prj\global\home_i2c
+      type: local
+    version: 1.0.0
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.0
+  iot_button:
+    component_hash: null
+    source:
+      path: D:\esp_prj\global\iot_button
+      type: local
+    version: 1.0.0
+manifest_hash: 8e4e1a4b35380104e81fcd46753812747aa78bd12d4e9d619900452983df90c1
+target: esp32
+version: 1.0.0
